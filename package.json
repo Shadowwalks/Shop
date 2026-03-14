@@ -12,9 +12,10 @@
     "build": "evershop build",
     "start": "evershop start",
     "seed": "evershop seed",
-    "dev": "evershop dev"
+    "dev": "evershop dev",
+    "user:create": "evershop user:create"
   },
-  
+
   "dependencies": {
     "@evershop/evershop": "^2.1.0"
   }
