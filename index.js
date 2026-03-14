@@ -1,3 +1,3 @@
-import { startServer } = require('@evershop/evershop');
+import { startServer } from require('@evershop/evershop');
 
 startServer();
