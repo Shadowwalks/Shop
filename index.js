@@ -1,3 +1,3 @@
-const { startServer } = require('@evershop/evershop');
+import { startServer } = require('@evershop/evershop');
 
 startServer();
