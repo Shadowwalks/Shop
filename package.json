@@ -14,10 +14,7 @@
     "seed": "evershop seed",
     "dev": "evershop dev"
   },
-  "engines": {
-    "node": ">=14.0.0"
-  },
-
+  
   "dependencies": {
     "@evershop/evershop": "^2.1.0"
   }
